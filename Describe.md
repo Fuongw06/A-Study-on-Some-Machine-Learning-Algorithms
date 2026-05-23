@@ -1,5 +1,5 @@
 # Nghiên cứu một số thuật toán học máy _ A Study on Some Machine Learning Algorithms
------------------------------------------------------------------------------------
+
 ## Bố cục:
 Bài tiểu luận này gồm 4 chương:
 - Chương 1: Tổng quan về học máy
@@ -13,7 +13,7 @@ Bài tiểu luận này gồm 4 chương:
     - Sau đó tôi dề cập đến 1 số cách để đánh giá độ chính xác của các thuật toán được đề cập bên trên
 - Chương 4: Thực nghiệm và đánh giá
   - **Tóm tắt:** Tôi thực nghiệm trên 2 bộ dataset (California Housing và Credit Card Fraud Detection) sau đó sử dụng bảng đồ để trực quan hóa dữ liệu ---> làm sạch (chia tỷ lệ đặc trưng) ---> Huấn luyện từng thuật toán ---> Nhận xét
------------------------------------------------------------------------------------
+
 ## Nhận xét cá nhân:
 - Bài tiểu luận này được tôi thực hiện vào năm 2 đại học (21/03/2026)
 - Phải thừa nhận là các thông tin, dữ liệu được sử dụng trong bài có sự hỗ trợ không nhỏ từ AI và đa phần các nội dung được đề cập trong các Chương đã được kham khảo kha khá trên mạng ví dụ: Chương 1 phần quan trọng của chương được tôi lấy khá nhiều từ nguồn trên mạng (FPT IS - Học máy (Machine Learning) là gì? Giải mã "bộ não nhân tạo" trong thế giới số) - thật lòng cảm ơn nguồn thồn tin vô cùng hữu ích này 
