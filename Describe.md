@@ -23,4 +23,5 @@ Bài tiểu luận này gồm 4 chương:
   - Thiếu ví dụ và phân tích sâu về code 
   - Cách trình bày chưa hoàn thiện
 - Nhưng nhìn chung dù tôi chưa vững về bất kì thuật toán hay phương pháp học máy nào được đề cập ở trên nhưng thông qua bài tiểu luận tôi cũng đã tự học được kiến thức cơ bản về đề tài một số thuật toán Học máy và hiểu cơ bản cách nó vận hành
-  
+
+- Không thể quên gửi lời cảm ơn chân thành đến giáo sư tiến sĩ Phan Tuấn Quốc đã cho tôi những lời nhận xét trọng tâm để tôi có thể cải thiện hơn trong tương lai. Một lần nữa cảm ơn thầy! 
