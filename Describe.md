@@ -3,14 +3,14 @@
 ## Bố cục:
 Bài tiểu luận này gồm 4 chương:
 - Chương 1: Tổng quan về học máy
-  - **Phần quan trọng:** Phân loại các phương pháp học máy chính (có giám sat, không giám sát, tăng cường)
+  - **Phần quan trọng:** Phân loại các phương pháp học máy chính (có giám sát, không giám sát, tăng cường)
 - Chương 2: Cơ sở toán học và hạ tầng tính toán
 - Chương 3: Phân tích cơ chế toán học và các độ đo đánh giá mô hình
   - **Tóm tắt:** Ở phần này tôi đề cập 3 thuật toán:
      - Hồi quy (hồi quy tuyến tính và hồi quy logistic)
      - Phân lớp (Random Forest)
      - Phân cụm (DBSCAN)
-    - Sau đó tôi dề cập đến 1 số cách để đánh giá độ chính xác của các thuật toán được đề cập bên trên
+    - Đề cập đến một số cách để đánh giá độ chính xác của các thuật toán được đề cập bên trên
 - Chương 4: Thực nghiệm và đánh giá
   - **Tóm tắt:** Tôi thực nghiệm trên 2 bộ dataset (California Housing và Credit Card Fraud Detection) sau đó sử dụng bảng đồ để trực quan hóa dữ liệu ---> làm sạch (chia tỷ lệ đặc trưng) ---> Huấn luyện từng thuật toán ---> Nhận xét
 
